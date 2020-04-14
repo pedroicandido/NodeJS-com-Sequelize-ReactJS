@@ -1,0 +1,25 @@
+.btnExcluir{
+    width: 35px;
+    height: 35px;
+    border: 0;
+    background: red;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.btnExcluir:hover{
+    opacity: 0.8;
+}
+
+.btnEditar{
+    width: 35px;
+    height: 35px;
+    border: 0;
+    background: yellow;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.btnEditar:hover{
+    opacity: 0.8;
+}
